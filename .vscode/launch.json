@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<comlib>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.community.library.comlib.DemoApplication",
+            "projectName": "comlib",
+            "args": ""
+        }
+    ]
+}
